@@ -26,6 +26,11 @@ This repository contains KMI, the first synthetic dataset theoretically grounded
 - `Advise`
 - `General`
 
+## Example
+<p align="center">
+  <img src="images/example.png" width="600">
+</p>
+
 ## Citation
 If you find our dataset useful, please cite our work:
 ```
@@ -36,12 +41,3 @@ If you find our dataset useful, please cite our work:
   year={2025}
 }
 ```
-
-## Example
-<p align="center">
-  <img src="images/example.png" width="600">
-</p>
-
-
-
-
