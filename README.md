@@ -34,10 +34,11 @@ This repository contains KMI, the first synthetic dataset theoretically grounded
 ## Citation
 If you find our dataset useful, please cite our work:
 ```
-@article{kim2025kmi,
+@inproceedings{kim2025kmi,
   title={KMI: A Dataset of Korean Motivational Interviewing Dialogues for Psychotherapy},
   author={Kim, Hyunjong and Lee, Suyeon and Cho, Yeongjae and Ryu, Eunseo and Jo, Yohan and Seong, Suran and Cho, Sungzoon},
-  journal={arXiv preprint arXiv:2502.05651},
+  booktitle={Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
+  pages={10803--10828},
   year={2025}
 }
 ```
